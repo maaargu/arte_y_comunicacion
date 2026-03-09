@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://maaargu.github.io/arte_y_comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://maaargu.github.io/arte_y_comunicacion/</loc>
+</url>
+<url>
+<loc>https://maaargu.github.io/arte_y_comunicacion/acerca-de-mi.html</loc>
+<lastmod>2026-03-08T21:46:16-05:00</lastmod>
+<image:image>
+<image:loc>https://maaargu.github.io/arte_y_comunicacion/media/posts/1/IMG_5135-2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://maaargu.github.io/arte_y_comunicacion/composicion-visual.html</loc>
+<lastmod>2026-03-01T20:30:16-05:00</lastmod>
+<image:image>
+<image:loc>https://maaargu.github.io/arte_y_comunicacion/media/posts/2/gallery/bitmap-thumbnail.png</image:loc>
+<image:title><![CDATA[Latidos]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://maaargu.github.io/arte_y_comunicacion/mi-composicion-visual-en-inkscape.html</loc>
+<lastmod>2026-03-08T21:34:31-05:00</lastmod>
+<image:image>
+<image:loc>https://maaargu.github.io/arte_y_comunicacion/media/posts/3/bitmap-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://maaargu.github.io/arte_y_comunicacion/media/posts/3/bitmap.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

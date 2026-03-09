@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y Comunicación</title>
+    <link href="https://maaargu.github.io/arte_y_comunicacion/feed.xml" rel="self" />
+    <link href="https://maaargu.github.io/arte_y_comunicacion" />
+    <updated>2026-03-08T21:34:31-05:00</updated>
+    <author>
+        <name>Maria Guzmán</name>
+    </author>
+    <id>https://maaargu.github.io/arte_y_comunicacion</id>
+
+    <entry>
+        <title>Mi Composición Visual en Inkscape</title>
+        <author>
+            <name>Maria Guzmán</name>
+        </author>
+        <link href="https://maaargu.github.io/arte_y_comunicacion/mi-composicion-visual-en-inkscape.html"/>
+        <id>https://maaargu.github.io/arte_y_comunicacion/mi-composicion-visual-en-inkscape.html</id>
+        <media:content url="https://maaargu.github.io/arte_y_comunicacion/media/posts/3/bitmap-2.png" medium="image" />
+            <category term="Composición Visual"/>
+
+        <updated>2026-03-08T21:32:44-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://maaargu.github.io/arte_y_comunicacion/media/posts/3/bitmap-2.png" alt="" />
+                    Esta composición abstracta representa el amor como una energía que nace desde el interior y se expande hacia el exterior. La forma estrellada central simboliza la luz propia de una persona cuando está enamorada, mientras que las líneas y curvas que la rodean evocan los&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://maaargu.github.io/arte_y_comunicacion/media/posts/3/bitmap-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Esta composición abstracta representa el amor como una energía que nace desde el interior y se expande hacia el exterior. La forma estrellada central simboliza la luz propia de una persona cuando está enamorada, mientras que las líneas y curvas que la rodean evocan los latidos acelerados y la vibración emocional que se experimenta en ese estado. A través de transparencias y superposición de planos geométricos, construí una sensación de profundidad y movimiento, donde los tonos cálidos del centro contrastan con los colores fríos del fondo para reforzar la intensidad del sentimiento. La obra busca traducir una experiencia emocional en una estructura visual equilibrada y sofisticada.<figure class="post__image"><img loading="lazy"  src="https://maaargu.github.io/arte_y_comunicacion/media/posts/3/bitmap.png" alt="" width="794" height="1123" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://maaargu.github.io/arte_y_comunicacion/media/posts/3/responsive/bitmap-xs.png 640w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/3/responsive/bitmap-sm.png 768w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/3/responsive/bitmap-md.png 1024w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/3/responsive/bitmap-lg.png 1366w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/3/responsive/bitmap-xl.png 1600w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/3/responsive/bitmap-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
