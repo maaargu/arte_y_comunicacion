@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://maaargu.github.io/arte_y_comunicacion/mi-composicion-sonora.html",
+            "url": "https://maaargu.github.io/arte_y_comunicacion/mi-composicion-sonora.html",
+            "title": "Mi Composición Sonora",
+            "author": {
+                "name": "Maria Guzmán"
+            },
+            "tags": [
+                   "Podcast"
+            ],
+            "date_published": "2026-03-30T18:09:09-05:00",
+            "date_modified": "2026-03-30T18:09:09-05:00"
+        },
+        {
             "id": "https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html",
             "url": "https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html",
             "title": "Comic referente a Doris Salcedo",

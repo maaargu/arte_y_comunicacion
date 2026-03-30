@@ -3,12 +3,25 @@
     <title>Arte y Comunicación</title>
     <link href="https://maaargu.github.io/arte_y_comunicacion/feed.xml" rel="self" />
     <link href="https://maaargu.github.io/arte_y_comunicacion" />
-    <updated>2026-03-30T18:06:31-05:00</updated>
+    <updated>2026-03-30T18:09:09-05:00</updated>
     <author>
         <name>Maria Guzmán</name>
     </author>
     <id>https://maaargu.github.io/arte_y_comunicacion</id>
 
+    <entry>
+        <title>Mi Composición Sonora</title>
+        <author>
+            <name>Maria Guzmán</name>
+        </author>
+        <link href="https://maaargu.github.io/arte_y_comunicacion/mi-composicion-sonora.html"/>
+        <id>https://maaargu.github.io/arte_y_comunicacion/mi-composicion-sonora.html</id>
+            <category term="Podcast"/>
+
+        <updated>2026-03-30T18:09:09-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Comic referente a Doris Salcedo</title>
         <author>
