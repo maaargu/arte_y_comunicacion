@@ -3,12 +3,35 @@
     <title>Arte y Comunicación</title>
     <link href="https://maaargu.github.io/arte_y_comunicacion/feed.xml" rel="self" />
     <link href="https://maaargu.github.io/arte_y_comunicacion" />
-    <updated>2026-03-08T21:34:31-05:00</updated>
+    <updated>2026-03-30T18:06:31-05:00</updated>
     <author>
         <name>Maria Guzmán</name>
     </author>
     <id>https://maaargu.github.io/arte_y_comunicacion</id>
 
+    <entry>
+        <title>Comic referente a Doris Salcedo</title>
+        <author>
+            <name>Maria Guzmán</name>
+        </author>
+        <link href="https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html"/>
+        <id>https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html</id>
+            <category term="Cómics"/>
+
+        <updated>2026-03-30T18:04:20-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Este webcómic está inspirado en Doris Salcedo y reflexiona sobre la ausencia y la memoria a partir de un espacio cotidiano. A lo largo de las viñetas, la escena muestra cómo un lugar pensado para reunirse empieza a transformarse cuando alguien falta, convirtiendo los objetos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://maaargu.github.io/arte_y_comunicacion/media/posts/4/WebComic.Grupo-4.jpg" alt="" width="2048" height="2048" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-xs.jpg 640w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-sm.jpg 768w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-md.jpg 1024w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-lg.jpg 1366w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-xl.jpg 1600w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-2xl.jpg 1920w"></figure>
+<p>Este webcómic está inspirado en Doris Salcedo y reflexiona sobre la ausencia y la memoria a partir de un espacio cotidiano. A lo largo de las viñetas, la escena muestra cómo un lugar pensado para reunirse empieza a transformarse cuando alguien falta, convirtiendo los objetos en símbolos de soledad y vacío. En la última viñeta se revela que la escena forma parte de una instalación artística, haciendo referencia a la forma en que Salcedo utiliza muebles y espacios domésticos para representar las huellas que dejan las ausencias.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mi Composición Visual en Inkscape</title>
         <author>

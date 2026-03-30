@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html",
+            "url": "https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html",
+            "title": "Comic referente a Doris Salcedo",
+            "summary": "Este webcómic está inspirado en Doris Salcedo y reflexiona sobre la ausencia y la memoria a partir de un espacio cotidiano. A lo largo de las viñetas, la escena muestra cómo un lugar pensado para reunirse empieza a transformarse cuando alguien falta, convirtiendo los objetos&hellip;",
+            "content_html": "<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://maaargu.github.io/arte_y_comunicacion/media/posts/4/WebComic.Grupo-4.jpg\" alt=\"\" width=\"2048\" height=\"2048\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-xs.jpg 640w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-sm.jpg 768w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-md.jpg 1024w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-lg.jpg 1366w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-xl.jpg 1600w ,https://maaargu.github.io/arte_y_comunicacion/media/posts/4/responsive/WebComic.Grupo-4-2xl.jpg 1920w\"></figure>\n<p>Este webcómic está inspirado en Doris Salcedo y reflexiona sobre la ausencia y la memoria a partir de un espacio cotidiano. A lo largo de las viñetas, la escena muestra cómo un lugar pensado para reunirse empieza a transformarse cuando alguien falta, convirtiendo los objetos en símbolos de soledad y vacío. En la última viñeta se revela que la escena forma parte de una instalación artística, haciendo referencia a la forma en que Salcedo utiliza muebles y espacios domésticos para representar las huellas que dejan las ausencias.</p>",
+            "author": {
+                "name": "Maria Guzmán"
+            },
+            "tags": [
+                   "Cómics"
+            ],
+            "date_published": "2026-03-30T18:04:20-05:00",
+            "date_modified": "2026-03-30T18:06:31-05:00"
+        },
+        {
             "id": "https://maaargu.github.io/arte_y_comunicacion/mi-composicion-visual-en-inkscape.html",
             "url": "https://maaargu.github.io/arte_y_comunicacion/mi-composicion-visual-en-inkscape.html",
             "title": "Mi Composición Visual en Inkscape",
