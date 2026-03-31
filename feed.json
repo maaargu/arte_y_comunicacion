@@ -13,6 +13,8 @@
             "id": "https://maaargu.github.io/arte_y_comunicacion/mi-composicion-sonora.html",
             "url": "https://maaargu.github.io/arte_y_comunicacion/mi-composicion-sonora.html",
             "title": "Mi Composición Sonora",
+            "summary": "Esta composición sonora explora una conversación entre amigos sobre experiencias amorosas fallidas. A partir de fragmentos de voz editados y reorganizados.",
+            "content_html": "<p>Esta composición sonora explora una conversación entre amigos sobre experiencias amorosas fallidas. A partir de fragmentos de voz editados y reorganizados.</p>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://maaargu.github.io/arte_y_comunicacion/media/posts/5/arteycomunicacion.wav\"></audio></p>",
             "author": {
                 "name": "Maria Guzmán"
             },
@@ -20,7 +22,7 @@
                    "Podcast"
             ],
             "date_published": "2026-03-30T18:09:09-05:00",
-            "date_modified": "2026-03-30T18:09:09-05:00"
+            "date_modified": "2026-03-30T19:21:26-05:00"
         },
         {
             "id": "https://maaargu.github.io/arte_y_comunicacion/comic-referente-a-doris-salcedo.html",

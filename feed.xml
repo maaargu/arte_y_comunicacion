@@ -3,7 +3,7 @@
     <title>Arte y Comunicación</title>
     <link href="https://maaargu.github.io/arte_y_comunicacion/feed.xml" rel="self" />
     <link href="https://maaargu.github.io/arte_y_comunicacion" />
-    <updated>2026-03-30T18:09:09-05:00</updated>
+    <updated>2026-03-30T19:21:26-05:00</updated>
     <author>
         <name>Maria Guzmán</name>
     </author>
@@ -19,8 +19,17 @@
             <category term="Podcast"/>
 
         <updated>2026-03-30T18:09:09-05:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    Esta composición sonora explora una conversación entre amigos sobre experiencias amorosas fallidas. A partir de fragmentos de voz editados y reorganizados.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Esta composición sonora explora una conversación entre amigos sobre experiencias amorosas fallidas. A partir de fragmentos de voz editados y reorganizados.</p>
+<p><audio loading="lazy" controls="controls" src="https://maaargu.github.io/arte_y_comunicacion/media/posts/5/arteycomunicacion.wav"></audio></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Comic referente a Doris Salcedo</title>
